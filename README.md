@@ -15,6 +15,6 @@
 ## Выпуски
 
 Сезон 01
-- [Несколько вопросов о NodeJS, JavaScript и TypeScript. TypeChallenge Solutions](./episodes/s01e01.md)
-- [Срезаем верхний слой с TypeScript](./episodes/s01e02.md)
-- [Яндекс.Браузер, Chromium и разработчики](./episodes/s01e03.md)
+- [Несколько вопросов о NodeJS, JavaScript и TypeScript. TypeChallenge Solutions](./episodes/s01e01/README.md)
+- [Срезаем верхний слой с TypeScript](./episodes/s01e02/README.md)
+- [Яндекс.Браузер, Chromium и разработчики](./episodes/s01e03/README.md)
