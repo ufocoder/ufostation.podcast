@@ -5,14 +5,14 @@ s01e02 - Срезаем верхний слой с TypeScript
 
 
 Разбирательства Артема в TypeScript:
-- [Typescript: unsound behavior или поблажки надежности](https://m.habr.com/ru/post/492106/)
-- [Strict mode in TypeScript: описание флагов, примеры](https://habr.com/ru/post/490970/)
-- [Type soundness in TypeScript: the missing part](https://www.youtube.com/watch?v=5j2GrY5HBoI) (видео)
+* [Typescript: unsound behavior или поблажки надежности](https://m.habr.com/ru/post/492106/)
+* [Strict mode in TypeScript: описание флагов, примеры](https://habr.com/ru/post/490970/)
+* [Type soundness in TypeScript: the missing part](https://www.youtube.com/watch?v=5j2GrY5HBoI) (видео)
 
 ### Слушать подкаст
 
-- [локально](./ufostation-s01e02.mp3)
-- [онлайн](https://anchor.fm/ufostation/episodes/s01e02-------TypeScript-e13ip3k)
+* [локально](./ufostation-s01e02.mp3)
+* [онлайн](https://anchor.fm/ufostation/episodes/s01e02-------TypeScript-e13ip3k)
 
 ### Содержание выпуска
 
