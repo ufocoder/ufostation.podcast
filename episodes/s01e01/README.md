@@ -4,15 +4,15 @@ s01e01: Несколько вопросов о NodeJS, JavaScript и TypeScript.
 Гость подкаста Евгений Обрезков — Software Engineer из компании Wix.
 
 ### Контакты Евгения
-- website: https://ghaiklor.com
-- twitter: https://twitter.com/ghaiklor
-- telegram: https://t.me/wild_wild_web
+* website: https://ghaiklor.com
+* twitter: https://twitter.com/ghaiklor
+* telegram: https://t.me/wild_wild_web
 
 
 ### Слушать подкаст
 
-- [локально](./ufostation-s01e01.mp3)
-- [онлайн](https://anchor.fm/ufostation/episodes/s01e01------NodeJS--JavaScript--TypeScript--TypeChallenge-Solutions-e12m5se)
+* [локально](./ufostation-s01e01.mp3)
+* [онлайн](https://anchor.fm/ufostation/episodes/s01e01------NodeJS--JavaScript--TypeScript--TypeChallenge-Solutions-e12m5se)
 
 
 ### Содержание выпуска
