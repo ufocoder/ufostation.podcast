@@ -18,3 +18,4 @@
 - [Несколько вопросов о NodeJS, JavaScript и TypeScript. TypeChallenge Solutions](./episodes/s01e01/README.md)
 - [Срезаем верхний слой с TypeScript](./episodes/s01e02/README.md)
 - [Яндекс.Браузер, Chromium и разработчики](./episodes/s01e03/README.md)
+- [DIY и Микроконтроллеры](./episodes/s01e04/README.md)
