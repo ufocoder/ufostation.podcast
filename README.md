@@ -19,3 +19,4 @@
 - [Срезаем верхний слой с TypeScript](./episodes/s01e02/README.md)
 - [Яндекс.Браузер, Chromium и разработчики](./episodes/s01e03/README.md)
 - [DIY и Микроконтроллеры](./episodes/s01e04/README.md)
+- [V8. Golang vs NodeJS. Распределенные системы](./episodes/s01e05/README.md)
