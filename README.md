@@ -25,3 +25,4 @@
 - [Функциональная парадигма и Haskell](./episodes/s01e06/README.md)
 - [WebGL, OpenGL и все-все-все](./episodes/s01e07/README.md)
 - [Знакомство с C++ и undefined behavior](./episodes/s01e08/README.md)
+- [Менеджеры состояний](./episodes/s01e09/README.md)
