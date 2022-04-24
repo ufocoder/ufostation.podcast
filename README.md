@@ -26,3 +26,9 @@
 - [WebGL, OpenGL и все-все-все](./episodes/s01e07/README.md)
 - [Знакомство с C++ и undefined behavior](./episodes/s01e08/README.md)
 - [Менеджеры состояний](./episodes/s01e09/README.md)
+
+## Выпуски
+
+Сезон 02
+- [IT Healthcare](./episodes/s02e01/README.md)
+- [DevOps](./episodes/s02e02/README.md)
