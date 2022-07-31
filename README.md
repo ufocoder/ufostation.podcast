@@ -32,3 +32,5 @@
 Сезон 02
 - [IT Healthcare](./episodes/s02e01/README.md)
 - [DevOps](./episodes/s02e02/README.md)
+- [Crypto topic: Блокчейн, смартконтракты, NFT, DA, DAO, etc](./episodes/s02e03/README.md)
+- [Прогулка по реактивному программированию](./episodes/s02e04/README.md)
