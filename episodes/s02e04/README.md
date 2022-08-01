@@ -17,9 +17,6 @@ s02e04 - Прогулка по реактивному программирова
 
 *Дополнительные ссылки:*
 
-— Антон Назаров, 
-— Антон Назаров, , 2021
-
 — [RxJS Marbles диаграммы](https://rxmarbles.com)
 — [Functional Reactive Animation](http://conal.net/papers/icfp97/)
 — [A Playful Introduction to Rx by Erik Meijer](https://www.youtube.com/watch?v=WKore-AkisY)
