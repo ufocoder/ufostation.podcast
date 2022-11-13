@@ -34,3 +34,6 @@
 - [DevOps](./episodes/s02e02/README.md)
 - [Crypto topic: Блокчейн, смартконтракты, NFT, DA, DAO, etc](./episodes/s02e03/README.md)
 - [Прогулка по реактивному программированию](./episodes/s02e04/README.md)
+- [Тесты и пицца](./episodes/s02e05/README.md)
+- [Проникновение в Pentesting](./episodes/s02e06/README.md)
+- [Highload между скобок](./episodes/s02e07/README.md)
