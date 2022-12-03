@@ -6,7 +6,7 @@ s02e07 - Highload между скобок
 **Григорий Скобелев, Java backend developer, директор программного комитета Podlodka Crew, основатель книжного клуба Между скобок**
 
 * twitter: https://twitter.com/gskobelevff
-* telegram: https://t.me/m0rtymerr_channel
+* telegram: https://t.me/Gskoba
 
 *Дополнительные ссылки:*
 
